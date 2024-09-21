@@ -25,3 +25,11 @@ body {
     text-wrap: balance;
   }
 }
+/* styles/globals.css */
+@font-face {
+  font-family: 'InstrumentSans';
+  src: url('/fonts/InstrumentSans.ttf') format('truetype');
+  font-weight: normal;
+  font-style: normal;
+}
+
